@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx1aCpn2h6hTPH9cRkUMrU9DQRQKJ4zu/18wYZqbVRPbCOaAHWWI0rX+38Y1aRsU+ADKyeK/vnt4AGUw0K0Stg==",
+  "success": true,
+  "projectFilePath": "C:\\Office\\GreatLearning\\Capstone\\Project1\\GLProducts\\GLProducts\\GLProducts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vigoel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vigoel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vigoel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\vigoel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\vigoel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\vigoel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
