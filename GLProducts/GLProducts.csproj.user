@@ -6,5 +6,7 @@
   <PropertyGroup>
     <ActiveDebugProfile>GLProducts</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>C:\Office\GreatLearning\Capstone\Project1\GLProducts\GLProducts\Properties\PublishProfiles\GLProds - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <Controller_SelectedScaffolderID>ApiControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>
 </Project>
